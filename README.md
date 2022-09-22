@@ -34,7 +34,14 @@ This ASIC converts the serial output of the DK Bongos, which is encoded using th
 With this ASIC, I hope to make more accessible to the world the absolute meme that has been dear to my heart for so long now.
 
 ---
-
 Additional Links:
 
 * [GameCube Controller Protocol on the DK Bongos](docs/DATASHEET.md)
+
+---
+Credits:
+
+* http://www.int03.co.uk/crema/hardware/gamecube/gc-control.html
+* Benjamin H. Powers, for believing in the dream / meme of binary keyboards and for hearing my new ideas with the same enthusiasm I had, no matter how crazy they must have seemed
+* Benjamin P. Reilly, for being my closest friend, a role model of courage, and for inspiring me to be the best engineer I can be
+* Scott A. Tornquist, for encouraging me to see the best in myself and for never giving up on me, even when I wanted to give up on myself
