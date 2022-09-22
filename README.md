@@ -42,6 +42,7 @@ Additional Links:
 Credits:
 
 * http://www.int03.co.uk/crema/hardware/gamecube/gc-control.html
+* https://n64brew.dev/wiki/Joybus_Protocol
 * Benjamin H. Powers, for believing in the dream / meme of binary keyboards and for hearing my new ideas with the same enthusiasm I had, no matter how crazy they must have seemed
 * Benjamin P. Reilly, for being my closest friend, a role model of courage, and for inspiring me to be the best engineer I can be
 * Scott A. Tornquist, for encouraging me to see the best in myself and for never giving up on me, even when I wanted to give up on myself
