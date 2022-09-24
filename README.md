@@ -72,7 +72,7 @@ PS/2 keyboard, agnostic to both application software and operating system. A
 hardware adapter frees the hobbyist to use the bongos in ways and applications
 which were not possible before, and certainly _never_ intended by Nintendo.
 
-![DK Bongos - System Diagram](docs/images/DK_Bongos_System_Diagram.png)
+![DK Bongos - System Diagram](docs/images/DK_BANANAS_System_Diagram.png)
 
 ---
 ## Where We're Going
