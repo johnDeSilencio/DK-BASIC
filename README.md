@@ -1,6 +1,6 @@
-# __DK BANANAS__: DK Bongos Adapter Newly Accelerated by Application Specific Integrated Circuits
+# _DK BANANAS_: *DK* *B*ongos *ASIC*
 
-The world's first hardware accelerated DK Bongos - PS/2 Keyboard adapter
+The world's first hardware-accelerated DK Bongos - PS/2 Keyboard adapter
 
 ---
 ## Introduction: What are the DK Bongos?
