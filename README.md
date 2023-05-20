@@ -1,4 +1,4 @@
-# _DK BANANAS_: *DK* *B*ongos *ASIC*
+# DK BASIC: Donkey Kong Bongos ASIC
 
 The world's first hardware-accelerated DK Bongos - PS/2 Keyboard adapter
 
